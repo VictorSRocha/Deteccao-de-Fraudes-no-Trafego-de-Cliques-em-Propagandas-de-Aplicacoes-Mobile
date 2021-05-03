@@ -6,7 +6,7 @@ A **TalkingData** (https://www.talkingdata.com), a maior plataforma de Big Data 
 
 Embora bem-sucedidos, eles querem estar sempre um passo à frente dos fraudadores e pediram a sua ajuda para desenvolver ainda mais a solução. Você está desafiado a criar um algoritmo que possa prever se um usuário fará o download de um aplicativo depois de clicar em um anúncio de aplicativo para dispositivos móveis.
 
-##Objetivo.
+## Objetivo.
 
 o Objetivo desse projeto será criarmos um algoritmo de machine learning que faça predições se um usuário **baixará** ou **não baixará** um aplicativo após ter clicado num anúncio.
 Ao projeto será considerado um bom modelo caso a taxa de acurácia chegue à 90%.
