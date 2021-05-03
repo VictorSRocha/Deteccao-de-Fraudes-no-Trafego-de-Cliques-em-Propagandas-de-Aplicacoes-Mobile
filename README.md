@@ -4,9 +4,10 @@ O risco de fraude está em toda parte, mas para as empresas que anunciam online,
 
 A **TalkingData** (https://www.talkingdata.com), a maior plataforma de Big Data independente da China, cobre mais de 70% dos dispositivos móveis ativos em todo o país. Eles lidam com 3 bilhões de cliques por dia, dos quais 90% são potencialmente fraudulentos. Sua abordagem atual para impedir fraudes de cliques para desenvolvedores de aplicativos é medir a jornada do clique de um usuário em todo o portfólio e sinalizar endereços IP que produzem muitos cliques, mas nunca acabam instalando aplicativos. Com essas informações, eles criaram uma lista negra de IPs e uma lista negra de dispositivos.
 
-Embora bem-sucedidos, eles querem estar sempre um passo à frente dos fraudadores e pediram a sua ajuda para desenvolver ainda mais a solução. Você está desafiado a criar um algoritmo que possa prever se um usuário fará o download de um aplicativo depois de clicar em um anúncio de aplicativo para dispositivos móveis.
+Embora bem-sucedidos, eles querem estar sempre um passo à frente dos fraudadores. Com isso, gerou-se a ideia decriarem esse desafiado para a criação de um algoritmo que possa prever se um usuário fará o download de um aplicativo depois de clicar em um anúncio de aplicativo para dispositivos móveis.
 
 ## Objetivo.
 
-o Objetivo desse projeto será criarmos um algoritmo de machine learning que faça predições se um usuário **baixará** ou **não baixará** um aplicativo após ter clicado num anúncio.
+o Objetivo desse projeto será a criação de um algoritmo de machine learning que faça predições se um usuário **baixará** ou **não baixará** um aplicativo após ter clicado num anúncio.
+
 Ao projeto será considerado um bom modelo caso a taxa de acurácia chegue à 90%.
